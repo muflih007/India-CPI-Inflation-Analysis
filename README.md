@@ -38,25 +38,21 @@ change withchange in inflation prices of all the categories and identify categor
  withfluctuations in imported oil price. 
 (Hint: you can use correl function)
 
-## Process : 
-
-
-
 ## Overall Major Findings and Insights :
 
-Food is Often the Largest Contributor: Analysis usually shows that food has the biggest impact on overall CPI inflation,
+* Food is Often the Largest Contributor: Analysis usually shows that food has the biggest impact on overall CPI inflation,
 especially in recent years.
 
-COVID-19 Caused Inflation Spikes: After March 2020, inflation rates increased sharply, particularly in categories like
+* COVID-19 Caused Inflation Spikes: After March 2020, inflation rates increased sharply, particularly in categories like
 healthcare, food, and essential services, due to supply disruptions and increased demand.
 
-Oil Prices Affect Fuel and Transport Inflation: Global oil price rises between 2021 and 2023 led to higher inflation in 
+* Oil Prices Affect Fuel and Transport Inflation: Global oil price rises between 2021 and 2023 led to higher inflation in 
 fuel and related categories in India.
 
-Inflation Fluctuates Yearly: The year-on-year CPI analysis identifies the year with the highest inflation, often explained
+* Inflation Fluctuates Yearly: The year-on-year CPI analysis identifies the year with the highest inflation, often explained
 by major events like COVID-19 or global supply issues.
 
-Specific Food Items Can Drive Food Inflation: Within the food category, certain items (like vegetables or cereals) often
+* Specific Food Items Can Drive Food Inflation: Within the food category, certain items (like vegetables or cereals) often
 stand out as main contributors in months with high food inflation.
 
 These insights help policymakers focus on controlling prices in high-impact categories and understanding the effects of 
