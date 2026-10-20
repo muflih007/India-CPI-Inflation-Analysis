@@ -53,13 +53,17 @@ change withchange in inflation prices of all the categories and identify categor
 food suplly stock,and temporary disruptions in distribution network leading to sharp food price-rises and volatility in other
 services. Government Lockdown measures and demand supply mismatches caused shorterm spikes in certain CPI components.
 
-*Highest Food inflation :JUNE 2022 - Lowest Food inflation : FEB 2023
+*Highest Food inflation :JUNE 2022 - Lowest Food inflation : FEB 2023 ,Highest MoM increase: Around +1.04% (June 2022) — likely
+due to supply-side or seasonal factors (e.g., monsoon or production cycle). Lowest MoM decline: Around -0.66% (Feb 2023) —
+possibly linked to post-harvest price correction. 
 
 * COVID-19 Caused Inflation Spikes: After March 2020, inflation rates increased sharply, particularly in categories like
-healthcare, food, and essential services, due to supply disruptions and increased demand.
+healthcare, food, and essential services, due to supply disruptions and increased demand.Inflation in healthcare and
+essentail rose most after COVID-19Confirms pandemic caused significant cost pressure in basic goods& services.
+
 
 * Oil Prices Affect Fuel and Transport Inflation: Global oil price rises between 2021 and 2023 led to higher inflation in 
-fuel and related categories in India.
+fuel and related categories in India. 
 
 * Inflation Fluctuates Yearly: The year-on-year CPI analysis identifies the year with the highest inflation, often explained
 by major events like COVID-19 or global supply issues.
