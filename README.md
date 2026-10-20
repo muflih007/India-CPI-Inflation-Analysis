@@ -43,6 +43,16 @@ change withchange in inflation prices of all the categories and identify categor
 *[CPI Inflation Dashboard](https://github.com/muflih007/India-CPI-Inflation-Analysis/blob/main/Images/Problem_Statement_2_Dashboard.png)
 *[Problem Statement 4 Image](https://github.com/muflih007/India-CPI-Inflation-Analysis/blob/main/Images/Problem_Statement_4(Covid_19_Impact).png)
 
+## Process :
+* First I understanded Data and Checked the Data Contains any missing Values Affect the Analytics 
+* There are some values are missing Values in Some Columns ,used Moving average imputation method 
+to impute missing values .
+* I created a Date column and Combined Year and Month into New Column To get yearly and Monthly Wise 
+analysis.
+* I created a Bucket Category of So many similar Items into One Group  , and Use (Sumif's) Formula to 
+get Which Grouped Category having More Contribution towards CPI inflation . 
+* I Used Pivot Charts to get Interactive Dashboards of YoY Inflation % Changes and MoM changes .
+* Used a Correlate Formula To identify Relation or link between different category to the Oil Price.
 ## Overall Major Findings and Insights :
 
 * Food is Often the Largest Contributor: Analysis usually shows that food has the biggest impact on overall CPI inflation,
