@@ -26,19 +26,47 @@ Highlight month with highest and lowest food inflation
 Identify the absolute changes in inflation over the same 12 months period and identify the biggest individual
 category contributor (only within broader food category) towards inflation.
 																		
-5. Investigate how the onset and progression of the COVID-19 pandemic affected inflation rates in India.
+4. Investigate how the onset and progression of the COVID-19 pandemic affected inflation rates in India.
  Analyze the Impact of key pandemic milestone (first lockdown) on the CPI inflation %.
 Hint: You can consider Mar'20 as the onset of covid, and can compare the inflation trend before and after
 Mar'20 to see if there is a change in inflation % before and after.	
 																		
-7. Investigate how major global economic events (like imported crude oil price fluctuations) have influenced India's
-8. inflation.
-This can include an analysis of imported goods and their price trends.For the purpose of this analysis, focus only on
-the  imported oil price fluctuations for years 2021 to 2023 (Month-on-month)Identify trends in oil price change with
-change in inflation prices of all the categories and identify category whose inflation prices strongly changes with
-fluctuations in imported oil price. 
+5. Investigate how major global economic events (like imported crude oil price fluctuations) have influenced India's
+ inflation.This can include an analysis of imported goods and their price trends.For the purpose of this analysis,
+focus only onthe  imported oil price fluctuations for years 2021 to 2023 (Month-on-month)Identify trends in oil price
+change withchange in inflation prices of all the categories and identify category whose inflation prices strongly changes
+ withfluctuations in imported oil price. 
 (Hint: you can use correl function)
 
------------------------------------------------------------------------------------------------------------------------------------
+## Process : 
+
+
+
+## Overall Major Findings and Insights :
+
+Food is Often the Largest Contributor: Analysis usually shows that food has the biggest impact on overall CPI inflation,
+especially in recent years.
+
+COVID-19 Caused Inflation Spikes: After March 2020, inflation rates increased sharply, particularly in categories like
+healthcare, food, and essential services, due to supply disruptions and increased demand.
+
+Oil Prices Affect Fuel and Transport Inflation: Global oil price rises between 2021 and 2023 led to higher inflation in 
+fuel and related categories in India.
+
+Inflation Fluctuates Yearly: The year-on-year CPI analysis identifies the year with the highest inflation, often explained
+by major events like COVID-19 or global supply issues.
+
+Specific Food Items Can Drive Food Inflation: Within the food category, certain items (like vegetables or cereals) often
+stand out as main contributors in months with high food inflation.
+
+These insights help policymakers focus on controlling prices in high-impact categories and understanding the effects of 
+local and global events on inflation.
+
+## Dashboards and images :
+
+*[Problem Statement_1 Image](https://github.com/muflih007/India-CPI-Inflation-Analysis/blob/main/Problem_Statment_1_Image.png)
+*[Dashboard for Problem Statement_2](https://github.com/muflih007/India-CPI-Inflation-Analysis/blob/main/Problem_Statement_2_Dashboard.png)
+*[Problem Statement_4 Image](https://github.com/muflih007/India-CPI-Inflation-Analysis/blob/main/Problem_Statement_4(Covid_19_Impact).png)
+
 
 
