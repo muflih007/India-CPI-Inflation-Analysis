@@ -50,7 +50,10 @@ to impute missing values .
 * I created a Date column and Combined Year and Month into New Column To get yearly and Monthly Wise 
 analysis.
 * I created a Bucket Category of So many similar Items into One Group  , and Use (Sumif's) Formula to 
-get Which Grouped Category having More Contribution towards CPI inflation . 
+get Which Grouped Category having More Contribution towards CPI inflation .
+* Calculated Monthly Inflation Rate Using = (CPI in Current Month - CPI in Previous Month)*100 and 
+Calculated Yearly Inflation Rate Using = ((CPI End Of The Year - CPI start of The Year)/CPI start of
+the year)*100 . 
 * I Used Pivot Charts to get Interactive Dashboards of YoY Inflation % Changes and MoM changes .
 * Used a Correlate Formula To identify Relation or link between different category to the Oil Price.
 ## Overall Major Findings and Insights :
