@@ -47,7 +47,14 @@ change withchange in inflation prices of all the categories and identify categor
 ## Overall Major Findings and Insights :
 
 * Food is Often the Largest Contributor: Analysis usually shows that food has the biggest impact on overall CPI inflation,
-especially in recent years.
+ especially in recent years. Food Contributes 45.8% in Overall Categories.This indicates India's inflation is mainly
+ Food-driven.
+
+* 2020 has the Highest Inflation Rate The Spike was driven by pandemic-linked supply interruption-(Fitst Lockdown),localized
+food suplly stock,and temporary disruptions in distribution network leading to sharp food price-rises and volatility in other
+services. Government Lockdown measures and demand supply mismatches caused shorterm spikes in certain CPI components.
+
+*Highest Food inflation :JUNE 2022 - Lowest Food inflation : FEB 2023
 
 * COVID-19 Caused Inflation Spikes: After March 2020, inflation rates increased sharply, particularly in categories like
 healthcare, food, and essential services, due to supply disruptions and increased demand.
