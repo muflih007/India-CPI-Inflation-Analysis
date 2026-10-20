@@ -1,6 +1,5 @@
 # India-CPI-Inflation-Analysis
-India CPI Inflation Analysis using Excel, PivotTables, and Pivot Charts. includes data processing , 
-data cleaning and imputation of missing values .
+India CPI Inflation Analysis using Excel, PivotTables, and Pivot Charts, including data cleaning, data processing, and missing-value imputation.
 
 ## Project Objective
 The objective of this project is to analyze India’s Consumer Price Index (CPI) inflation data to understand which categories (like food, fuel, transportation, etc.) contribute most to inflation, identify trends over recent years (including before and after major events like COVID-19), and assess the impact of domestic and global factors (such as oil price changes) on overall inflation rates. The goal is to provide clear insights into inflation drivers using actual index data and visualizations, enabling better economic understanding and decision-making.
@@ -40,9 +39,9 @@ change withchange in inflation prices of all the categories and identify categor
 
 ## Dashboards and images :
 
-*[Problem Statement_1 Image](https://github.com/muflih007/India-CPI-Inflation-Analysis/blob/main/Problem_Statment_1_Image.png)
-*[Dashboard for Problem Statement_2](https://github.com/muflih007/India-CPI-Inflation-Analysis/blob/main/Problem_Statement_2_Dashboard.png)
-*[Problem Statement_4 Image](https://github.com/muflih007/India-CPI-Inflation-Analysis/blob/main/Problem_Statement_4(Covid_19_Impact).png)
+*[Problem Statement 1 Image](https://github.com/muflih007/India-CPI-Inflation-Analysis/blob/main/Problem_Statment_1_Image.png)
+*[CPI Inflation Dashboard](https://github.com/muflih007/India-CPI-Inflation-Analysis/blob/main/Problem_Statement_2_Dashboard.png)
+*[Problem Statement 4 Image](https://github.com/muflih007/India-CPI-Inflation-Analysis/blob/main/Problem_Statement_4(Covid_19_Impact).png)
 
 ## Overall Major Findings and Insights :
 
