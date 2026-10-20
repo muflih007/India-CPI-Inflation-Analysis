@@ -38,6 +38,12 @@ change withchange in inflation prices of all the categories and identify categor
  withfluctuations in imported oil price. 
 (Hint: you can use correl function)
 
+## Dashboards and images :
+
+*[Problem Statement_1 Image](https://github.com/muflih007/India-CPI-Inflation-Analysis/blob/main/Problem_Statment_1_Image.png)
+*[Dashboard for Problem Statement_2](https://github.com/muflih007/India-CPI-Inflation-Analysis/blob/main/Problem_Statement_2_Dashboard.png)
+*[Problem Statement_4 Image](https://github.com/muflih007/India-CPI-Inflation-Analysis/blob/main/Problem_Statement_4(Covid_19_Impact).png)
+
 ## Overall Major Findings and Insights :
 
 * Food is Often the Largest Contributor: Analysis usually shows that food has the biggest impact on overall CPI inflation,
@@ -58,11 +64,10 @@ stand out as main contributors in months with high food inflation.
 These insights help policymakers focus on controlling prices in high-impact categories and understanding the effects of 
 local and global events on inflation.
 
-## Dashboards and images :
+## Conclusion : 
+The India CPI Inflation case study demonstrates that inflation in India is mainly driven by changes in food prices, global oil price fluctuations, and major events like the COVID-19 pandemic. The analysis highlights how different categories contribute to overall inflation and shows that disruptions—such as supply chain issues or increased demand—can sharply affect key sectors like food, healthcare, and fuel. Understanding these trends helps policymakers and stakeholders take focused actions to manage inflation and protect consumer purchasing power.
 
-*[Problem Statement_1 Image](https://github.com/muflih007/India-CPI-Inflation-Analysis/blob/main/Problem_Statment_1_Image.png)
-*[Dashboard for Problem Statement_2](https://github.com/muflih007/India-CPI-Inflation-Analysis/blob/main/Problem_Statement_2_Dashboard.png)
-*[Problem Statement_4 Image](https://github.com/muflih007/India-CPI-Inflation-Analysis/blob/main/Problem_Statement_4(Covid_19_Impact).png)
+
 
 
 
