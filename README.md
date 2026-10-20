@@ -39,9 +39,9 @@ change withchange in inflation prices of all the categories and identify categor
 
 ## Dashboards and images :
 
-*[Problem Statement 1 Image](https://github.com/muflih007/India-CPI-Inflation-Analysis/blob/main/Problem_Statment_1_Image.png)
-*[CPI Inflation Dashboard](https://github.com/muflih007/India-CPI-Inflation-Analysis/blob/main/Problem_Statement_2_Dashboard.png)
-*[Problem Statement 4 Image](https://github.com/muflih007/India-CPI-Inflation-Analysis/blob/main/Problem_Statement_4(Covid_19_Impact).png)
+*[Problem Statement 1 Image](https://github.com/muflih007/India-CPI-Inflation-Analysis/blob/main/Images/Problem_Statment_1_Image.png)
+*[CPI Inflation Dashboard](https://github.com/muflih007/India-CPI-Inflation-Analysis/blob/main/Images/Problem_Statement_2_Dashboard.png)
+*[Problem Statement 4 Image](https://github.com/muflih007/India-CPI-Inflation-Analysis/blob/main/Images/Problem_Statement_4(Covid_19_Impact).png)
 
 ## Overall Major Findings and Insights :
 
